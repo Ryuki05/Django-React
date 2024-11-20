@@ -1,15 +1,42 @@
-from django.shortcuts import render, redirect
+from django.shortcuts import render
+from django.shortcuts import redirect
 from django.http import HttpResponse
-from django.views.generic import TemplateView
-from django.core.paginator import Paginator
-from django.db.models import Q, Count, Sum, Avg, Min, Max
+from .forms import HelloForm
+from .forms import SampleForm
+from .forms import SessionForm
+from .forms import SearchForm
+from .forms import RegisterForm
+from .forms import FriendForm
+from .forms import MessageForm
+from .forms import FindForm
+from .forms import CheckForm
 
-from .forms import (
-    HelloForm, SampleForm, SessionForm, 
-    SearchForm, RegisterForm, FriendForm, 
-    FindForm, CheckForm
-)
+from django.views.generic import TemplateView
 from .models import Friend
+from .models import Message
+from django.db.models import Q
+from django.db.models import Count,Sum,Avg,Min,Max
+
+# ページネーション
+from django.core.paginator import Paginator
+
+# メッセージ関数
+def message(request, page=1):
+    if (request.method=="POST"):
+        obj = Message()
+        form = MessageForm(request.POST,instance=obj)
+        form.save()
+
+    data = Message.objects.all().reverse()
+    paginator = Paginator(data,5)
+    params = {
+        "title":"Message",
+        "form":MessageForm(),
+        "data":paginator.get_page(page),
+    }
+
+    return render(request, "hello/message.html",params)
+
 
 def check(request):
     params = {

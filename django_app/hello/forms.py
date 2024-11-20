@@ -1,5 +1,22 @@
 from django import forms
 from .models import Friend
+from .models import Message
+
+# MessageForm
+class MessageForm(forms.ModelForm):
+    class Meta:
+        model = Message
+        fields = ["title","content","friend"]
+        widgets = {
+            "title":forms.TextInput(attrs={"class":"form-control form-control-sm"}),
+            "content":forms.Textarea(attrs={"class":"form-control form-control-sm"}),
+            "friend":forms.Select(attrs={"class":"form-control form-control-sm"}),
+        }
+        labels = {
+            "title":"タイトル",
+            "content":"メッセージ",
+            "friend":"投稿者",
+        }
 
 # checkフォーム
 class CheckForm(forms.Form):

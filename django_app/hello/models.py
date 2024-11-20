@@ -28,9 +28,10 @@ class Friend(models.Model):
     birthday = models.DateField()
 
     def __str__(self):
-        return "<Friend:id=" + str(self.id) + "," + self.name + "(" + str(self.age) + ")>"
-    
-# メッセージ
+        return "<Friend:id=" + str(self.id) + "," + self.name + "(" + str(self.age) + ")>" 
+
+
+# メッセージモデル
 class Message(models.Model):
     friend = models.ForeignKey(Friend, on_delete=models.CASCADE)
     title = models.CharField(max_length=100)
@@ -38,8 +39,8 @@ class Message(models.Model):
     pub_date = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
-        return "<Message:id> = " + str(self.id) + "," +self.title + "(" + str(self.pub_date) + ")>"
+        return "<Message:id> = " + str(self.id) + "," + self.title + "(" + str(self.pub_date) + ")>"
     
     class Meta:
-        ordering = ("pub_date", )
+        ordering = ("pub_date",)
 

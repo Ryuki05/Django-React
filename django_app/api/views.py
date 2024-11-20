@@ -1,85 +1,107 @@
 from django.shortcuts import render
-from django.contrib.auth.models import User
+from api.models import Message2,Good2 # 2に書き換え
 from django.core.paginator import Paginator
 from django.contrib.auth.decorators import login_required
-from django.http import HttpResponse, JsonResponse
-from django.core.serializers import serialize
+from django.core.serializers import serialize # 追加
+from django.http import HttpResponse # 追加
+from django.http import JsonResponse # 追加
+from django.contrib.auth.models import User # 追加
 
-from api.models import Message2,Good2
+import json # 追加
 
-import json
-
-page_max = 10 #ページ当たりの表示数
+# Create your views here.
+page_max = 10 # １ページ当りの表示数
 
 # indexのビュー関数
 @login_required(login_url='/admin/login/')
 def index(request):
-  return render(request, 'index.html')
 
-# メッセージをJSONで送信する
+    return render(request, "index.html")
+
+# メッセージの関数:メッセージをjson形式で送る
 @login_required(login_url='/admin/login/')
-def msgs(request, page=1):
-  msgs = Message2.objects.all()
-  # ページネーションで指定ページを取得
-  paginate = Paginator(msgs, page_max)
-  page_items = paginate.get_page(page)
-  serialized_data = serialize('json', page_items)
-  return HttpResponse(serialized_data, content_type='application/json')
+def msgs(request,page=1):
+    msgs = Message2.objects.all()
 
-# ページ数を返す
+    paginator = Paginator(msgs,page_max)
+    page_items = paginator.get_page(page)
+    serialized_data = serialize("json",page_items)
+    return HttpResponse(serialized_data, content_type="application/json")
+
+# メッセージのページ数を返す
 @login_required(login_url='/admin/login/')
 def plast(request):
-  msgs = Message2.objects.all()
-  paginate = Paginator(msgs, page_max)
-  last_page = paginate.num_pages
-  return JsonResponse({'result':"OK", 'value':last_page})
+    msgs = Message2.objects.all()
+
+    paginator = Paginator(msgs,page_max)
+    last_page = paginator.num_pages
+    return JsonResponse({'result':"OK",'value':last_page})
+
 
 # ユーザー名を返す
 @login_required(login_url='/admin/login/')
-def usr(request, usr_id=-1):
-  if usr_id == -1:
-    usr = request.user
-  else:
-    usr = User.objects.filter(id=usr_id).first()
-  return JsonResponse({'result':"OK", 'value':usr.username})
+def usr(request,usr_id):
+    if usr_id == -1:
+        usr = request.user
+    else:
+        usr = User.objects.filter(id=usr_id).first()
 
-# メッセージのポスト処理
+    return JsonResponse({'result':"OK",'value':usr.username})
+
+
+# メッセージの送信処理
 @login_required(login_url='/admin/login/')
 def post(request):
-  # POST送信の処理
-  if request.method == 'POST':
-    # 送信内容の取得
-    byte_data = request.body.decode('utf-8')
-    json_body = json.loads(byte_data)
     
-    # Messageを作成し設定して保存
-    msg = Message2()
-    msg.owner = request.user
-    msg.owner_name = request.user.username
-    msg.content = json_body['content']
-    msg.save()
-    return HttpResponse("OK")
-  
-  else:
-    return HttpResponse("NG")
+    if request.method == 'POST':
+        # 送信内容を取得
+        byte_data = request.body.decode('utf-8')
+        json_body = json.loads(byte_data)
+        content = json_body['content']
 
-# goodボタンの処理
+        # メッセージを設定して保存
+        msg = Message2()
+        msg.owner = request.user
+        msg.owner_name = request.user.username
+        msg.content = content
+        msg.save()
+
+        return HttpResponse("OK")
+    else:
+        return HttpResponse("NG")
+
+    
+# @login_required(login_url='/admin/login/')
+# def goods(request):
+    
+#     goods = Good2.objects.filter(owner=request.user).all()
+
+#     params = {
+#         'login_user':request.user,
+#         'contents':goods,
+#     }
+#     return render(request,'sns/good.html',params)
+
+
 @login_required(login_url='/admin/login/')
-def good(request, good_id):
-  # goodするMessageを取得
-  good_msg = Message2.objects.get(id=good_id)
-  # 自分がメッセージにGoodした数を調べる
-  is_good = Good2.objects.filter(owner=request.user) \
-    .filter(message=good_msg).count()
-  # ゼロより大きければ既にgood済み
-  if is_good > 0:
-    return HttpResponse("NG")
-  
-  else:
-    # Messageのgood_countを１増やす
+def good(request,good_id):
+
+    # goodされたメッセージの取得
+    good_msg = Message2.objects.get(id=good_id)
+
+    # goodした回数
+    is_good = Good2.objects.filter(owner=request.user).filter(message=good_msg).count()
+
+    # good済み処理
+    if is_good > 0:
+        return HttpResponse("NG")
+
+    # good未の処理
+    # goodの数を増やす
     good_msg.good_count += 1
     good_msg.save()
-    # Goodを作成する
+
+    # Good2テーブルを作成
     good = Good2()
     good.owner = request.user
     good.message = good_msg

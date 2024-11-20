@@ -1,0 +1,1941 @@
+[
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "Message2",
+        "importPath": "api.models",
+        "description": "api.models",
+        "isExtraImport": true,
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Good2",
+        "importPath": "api.models",
+        "description": "api.models",
+        "isExtraImport": true,
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Message2",
+        "importPath": "api.models",
+        "description": "api.models",
+        "isExtraImport": true,
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Good2",
+        "importPath": "api.models",
+        "description": "api.models",
+        "isExtraImport": true,
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "api",
+        "description": "api",
+        "isExtraImport": true,
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "Paginator",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "Paginator",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "Paginator",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "serialize",
+        "importPath": "django.core.serializers",
+        "description": "django.core.serializers",
+        "isExtraImport": true,
+        "detail": "django.core.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "MinLengthValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "URLValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "RegexValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "HelloView",
+        "importPath": "hello.views",
+        "description": "hello.views",
+        "isExtraImport": true,
+        "detail": "hello.views",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Count",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sum",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Avg",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Min",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Max",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "sns.models",
+        "description": "sns.models",
+        "isExtraImport": true,
+        "detail": "sns.models",
+        "documentation": {}
+    },
+    {
+        "label": "Good",
+        "importPath": "sns.models",
+        "description": "sns.models",
+        "isExtraImport": true,
+        "detail": "sns.models",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "sns.models",
+        "description": "sns.models",
+        "isExtraImport": true,
+        "detail": "sns.models",
+        "documentation": {}
+    },
+    {
+        "label": "Good",
+        "importPath": "sns.models",
+        "description": "sns.models",
+        "isExtraImport": true,
+        "detail": "sns.models",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "sns",
+        "description": "sns",
+        "isExtraImport": true,
+        "detail": "sns",
+        "documentation": {}
+    },
+    {
+        "label": "PostForm",
+        "importPath": "sns.forms",
+        "description": "sns.forms",
+        "isExtraImport": true,
+        "detail": "sns.forms",
+        "documentation": {}
+    },
+    {
+        "label": "PostForm",
+        "importPath": "sns.forms",
+        "description": "sns.forms",
+        "isExtraImport": true,
+        "detail": "sns.forms",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "importPath": "flatted",
+        "description": "flatted",
+        "isExtraImport": true,
+        "detail": "flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "importPath": "flatted",
+        "description": "flatted",
+        "isExtraImport": true,
+        "detail": "flatted",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django_app.api.migrations.0001_initial",
+        "description": "django_app.api.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Message2',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "django_app.api.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "ApiConfig",
+        "kind": 6,
+        "importPath": "django_app.api.apps",
+        "description": "django_app.api.apps",
+        "peekOfCode": "class ApiConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'api'",
+        "detail": "django_app.api.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Message2",
+        "kind": 6,
+        "importPath": "django_app.api.models",
+        "description": "django_app.api.models",
+        "peekOfCode": "class Message2(models.Model):\n    owner = models.ForeignKey(User,on_delete=models.CASCADE,related_name=\"message2_owner\")\n    owner_name = models.TextField(max_length=1000)\n    content = models.TextField(max_length=1000)\n    good_count = models.IntegerField(default=0)\n    pub_date = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return str(self.content) + \"(\" + str(self.owner) + \")\"\n    class Meta:\n        ordering = (\"-pub_date\",)",
+        "detail": "django_app.api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Good2",
+        "kind": 6,
+        "importPath": "django_app.api.models",
+        "description": "django_app.api.models",
+        "peekOfCode": "class Good2(models.Model):\n    owner = models.ForeignKey(User,on_delete=models.CASCADE,related_name=\"good2_owner\")\n    message = models.ForeignKey(Message2, on_delete=models.CASCADE)\n    pub_date = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return '\"' + str(self.message) + '\"(by' + str(self.owner) + ')'\n    class Meta:\n        ordering = ('-pub_date',)",
+        "detail": "django_app.api.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "django_app.api.urls",
+        "description": "django_app.api.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\",views.index,name=\"index\"),\n    path(\"plast\",views.plast,name=\"plast\"),\n    path(\"msgs\",views.msgs,name=\"msgs\"),\n    path(\"usr\",views.usr,name=\"usr\"),\n    path(\"usr/<int:usr_id>\",views.usr,name=\"usr\"),\n    path(\"post\",views.post,name=\"post\"),\n    path(\"good/<int:good_id>\",views.good,name=\"good\"),\n]",
+        "detail": "django_app.api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "django_app.api.views",
+        "description": "django_app.api.views",
+        "peekOfCode": "def index(request):\n    return render(request, \"index.html\")\n# メッセージの関数:メッセージをjson形式で送る\n@login_required(login_url='/admin/login/')\ndef msgs(request,page=1):\n    msgs = Message2.objects.all()\n    paginator = Paginator(msgs,page_max)\n    page_items = paginator.get_page(page)\n    serialized_data = serialize(\"json\",page_items)\n    return HttpResponse(serialized_data, content_type=\"application/json\")",
+        "detail": "django_app.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "msgs",
+        "kind": 2,
+        "importPath": "django_app.api.views",
+        "description": "django_app.api.views",
+        "peekOfCode": "def msgs(request,page=1):\n    msgs = Message2.objects.all()\n    paginator = Paginator(msgs,page_max)\n    page_items = paginator.get_page(page)\n    serialized_data = serialize(\"json\",page_items)\n    return HttpResponse(serialized_data, content_type=\"application/json\")\n# メッセージのページ数を返す\n@login_required(login_url='/admin/login/')\ndef plast(request):\n    msgs = Message2.objects.all()",
+        "detail": "django_app.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "plast",
+        "kind": 2,
+        "importPath": "django_app.api.views",
+        "description": "django_app.api.views",
+        "peekOfCode": "def plast(request):\n    msgs = Message2.objects.all()\n    paginator = Paginator(msgs,page_max)\n    last_page = paginator.num_pages\n    return JsonResponse({'result':\"OK\",'value':last_page})\n# ユーザー名を返す\n@login_required(login_url='/admin/login/')\ndef usr(request,usr_id):\n    if usr_id == -1:\n        usr = request.user",
+        "detail": "django_app.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "usr",
+        "kind": 2,
+        "importPath": "django_app.api.views",
+        "description": "django_app.api.views",
+        "peekOfCode": "def usr(request,usr_id):\n    if usr_id == -1:\n        usr = request.user\n    else:\n        usr = User.objects.filter(id=usr_id).first()\n    return JsonResponse({'result':\"OK\",'value':usr.username})\n# メッセージの送信処理\n@login_required(login_url='/admin/login/')\ndef post(request):\n    if request.method == 'POST':",
+        "detail": "django_app.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "post",
+        "kind": 2,
+        "importPath": "django_app.api.views",
+        "description": "django_app.api.views",
+        "peekOfCode": "def post(request):\n    if request.method == 'POST':\n        # 送信内容を取得\n        byte_data = request.body.decode('utf-8')\n        json_body = json.loads(byte_data)\n        content = json_body['content']\n        # メッセージを設定して保存\n        msg = Message2()\n        msg.owner = request.user\n        msg.owner_name = request.user.username",
+        "detail": "django_app.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "good",
+        "kind": 2,
+        "importPath": "django_app.api.views",
+        "description": "django_app.api.views",
+        "peekOfCode": "def good(request,good_id):\n    # goodされたメッセージの取得\n    good_msg = Message2.objects.get(id=good_id)\n    # goodした回数\n    is_good = Good2.objects.filter(owner=request.user).filter(message=good_msg).count()\n    # good済み処理\n    if is_good > 0:\n        return HttpResponse(\"NG\")\n    # good未の処理\n    # goodの数を増やす",
+        "detail": "django_app.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "page_max",
+        "kind": 5,
+        "importPath": "django_app.api.views",
+        "description": "django_app.api.views",
+        "peekOfCode": "page_max = 10 # １ページ当りの表示数\n# indexのビュー関数\n@login_required(login_url='/admin/login/')\ndef index(request):\n    return render(request, \"index.html\")\n# メッセージの関数:メッセージをjson形式で送る\n@login_required(login_url='/admin/login/')\ndef msgs(request,page=1):\n    msgs = Message2.objects.all()\n    paginator = Paginator(msgs,page_max)",
+        "detail": "django_app.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "django_app.django_app.asgi",
+        "description": "django_app.django_app.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "django_app.django_app.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-gew(%emeiqd-0(fx3xlkqb*+80c@j@*50wsk$fly90r_w96pcc'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-gew(%emeiqd-0(fx3xlkqb*+80c@j@*50wsk$fly90r_w96pcc'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'hello',",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'hello',\n    'sns',\n    'api',",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    # 'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nSESSION_ENGINE = 'django.contrib.sessions.backends.cache'",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SESSION_ENGINE",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "SESSION_ENGINE = 'django.contrib.sessions.backends.cache'\nROOT_URLCONF = 'django_app.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR,'static')],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "ROOT_URLCONF = 'django_app.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR,'static')],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR,'static')],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'django_app.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [BASE_DIR/'static',]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [BASE_DIR/'static',]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [BASE_DIR/'static',]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [BASE_DIR/'static',]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATICFILES_DIRS = [BASE_DIR/'static',]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "STATICFILES_DIRS = [BASE_DIR/'static',]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "django_app.django_app.settings",
+        "description": "django_app.django_app.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "django_app.django_app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "django_app.django_app.urls",
+        "description": "django_app.django_app.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('hello/',include('hello.urls')),\n    path('sns/',include('sns.urls')),\n    path('api/',include('api.urls')),\n]",
+        "detail": "django_app.django_app.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "django_app.django_app.wsgi",
+        "description": "django_app.django_app.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "django_app.django_app.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django_app.hello.migrations.0001_initial",
+        "description": "django_app.hello.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Friend',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100)),",
+        "detail": "django_app.hello.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django_app.hello.migrations.0002_alter_friend_mail_message",
+        "description": "django_app.hello.migrations.0002_alter_friend_mail_message",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('hello', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='friend',\n            name='mail',\n            field=models.EmailField(max_length=100),\n        ),",
+        "detail": "django_app.hello.migrations.0002_alter_friend_mail_message",
+        "documentation": {}
+    },
+    {
+        "label": "HelloConfig",
+        "kind": 6,
+        "importPath": "django_app.hello.apps",
+        "description": "django_app.hello.apps",
+        "peekOfCode": "class HelloConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'hello'",
+        "detail": "django_app.hello.apps",
+        "documentation": {}
+    },
+    {
+        "label": "MessageForm",
+        "kind": 6,
+        "importPath": "django_app.hello.forms",
+        "description": "django_app.hello.forms",
+        "peekOfCode": "class MessageForm(forms.ModelForm):\n    class Meta:\n        model = Message\n        fields = [\"title\",\"content\",\"friend\"]\n        widgets = {\n            \"title\":forms.TextInput(attrs={\"class\":\"form-control form-control-sm\"}),\n            \"content\":forms.Textarea(attrs={\"class\":\"form-control form-control-sm\"}),\n            \"friend\":forms.Select(attrs={\"class\":\"form-control form-control-sm\"}),\n        }\n        labels = {",
+        "detail": "django_app.hello.forms",
+        "documentation": {}
+    },
+    {
+        "label": "CheckForm",
+        "kind": 6,
+        "importPath": "django_app.hello.forms",
+        "description": "django_app.hello.forms",
+        "peekOfCode": "class CheckForm(forms.Form):\n    str = forms.CharField(label=\"文字列\",required=True)\n    def clean(self):\n        cleaned_data = super().clean()\n        str = cleaned_data[\"str\"]\n        if (str.lower().startswith(\"no\")):\n            raise forms.ValidationError(\"「no」で始まる入力がありました。\")\n    min = forms.CharField(label=\"最小入力数\",min_length=3) # 最小文字数:3\n    max = forms.CharField(label=\"最大入力数\",max_length=5) # 最大文字数:5\n    num = forms.IntegerField(label=\"数値\",min_value=10,max_value=50) # 最小値:10,最大値:50",
+        "detail": "django_app.hello.forms",
+        "documentation": {}
+    },
+    {
+        "label": "FindForm",
+        "kind": 6,
+        "importPath": "django_app.hello.forms",
+        "description": "django_app.hello.forms",
+        "peekOfCode": "class FindForm(forms.Form):\n    find = forms.CharField(label='Find',required=False,widget=forms.TextInput(attrs={'style':'width:400px;'}))\n# モデルフォーム\nclass FriendForm(forms.ModelForm):\n    class Meta:\n        model = Friend\n        fields = ['name','mail','gender','age','birthday']\n        widgets = {\n            \"name\":forms.TextInput(attrs={\"class\":\"form-control\"}),\n            \"mail\":forms.EmailInput(attrs={\"class\":\"form-control\"}),",
+        "detail": "django_app.hello.forms",
+        "documentation": {}
+    },
+    {
+        "label": "FriendForm",
+        "kind": 6,
+        "importPath": "django_app.hello.forms",
+        "description": "django_app.hello.forms",
+        "peekOfCode": "class FriendForm(forms.ModelForm):\n    class Meta:\n        model = Friend\n        fields = ['name','mail','gender','age','birthday']\n        widgets = {\n            \"name\":forms.TextInput(attrs={\"class\":\"form-control\"}),\n            \"mail\":forms.EmailInput(attrs={\"class\":\"form-control\"}),\n            \"age\":forms.NumberInput(attrs={\"class\":\"form-control\"}),\n            \"birthday\":forms.DateInput(attrs={\"class\":\"form-control\"}),\n        }",
+        "detail": "django_app.hello.forms",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterForm",
+        "kind": 6,
+        "importPath": "django_app.hello.forms",
+        "description": "django_app.hello.forms",
+        "peekOfCode": "class RegisterForm(forms.Form):\n    name = forms.CharField(label='名前',widget=forms.TextInput(attrs={'class':'form-control'}))\n    mail = forms.EmailField(label='メールアドレス',widget=forms.EmailInput(attrs={'class':'form-control'}))\n    gender = forms.BooleanField(label='性別',required=False,widget=forms.CheckboxInput(attrs={'class':'form-check'}))\n    age = forms.IntegerField(label='年齢',widget=forms.NumberInput(attrs={'class':'form-control'}))\n    birthday = forms.DateField(label='生年月日',widget=forms.DateInput(attrs={'class':'form-control'}))\n# SearchForm ID検索フォーム\nclass SearchForm(forms.Form):\n    id = forms.IntegerField(label='ID検索',widget=forms.TextInput(attrs={'class':'form-control'}))\n# HelloForm",
+        "detail": "django_app.hello.forms",
+        "documentation": {}
+    },
+    {
+        "label": "SearchForm",
+        "kind": 6,
+        "importPath": "django_app.hello.forms",
+        "description": "django_app.hello.forms",
+        "peekOfCode": "class SearchForm(forms.Form):\n    id = forms.IntegerField(label='ID検索',widget=forms.TextInput(attrs={'class':'form-control'}))\n# HelloForm\nclass HelloForm(forms.Form):\n    name = forms.CharField(label=\"名前\",required=True,widget=forms.TextInput(attrs={'class':'form-control'}))\n    mail = forms.URLField(label=\"メールアドレス\",required=True,widget=forms.TextInput(attrs={'class':'form-control'}))\n    age = forms.IntegerField(label=\"年齢\",required=True,widget=forms.NumberInput(attrs={'class':'form-control'}))\n# サンプルフォーム\nclass SampleForm(forms.Form):\n    # input type=\"text\"",
+        "detail": "django_app.hello.forms",
+        "documentation": {}
+    },
+    {
+        "label": "HelloForm",
+        "kind": 6,
+        "importPath": "django_app.hello.forms",
+        "description": "django_app.hello.forms",
+        "peekOfCode": "class HelloForm(forms.Form):\n    name = forms.CharField(label=\"名前\",required=True,widget=forms.TextInput(attrs={'class':'form-control'}))\n    mail = forms.URLField(label=\"メールアドレス\",required=True,widget=forms.TextInput(attrs={'class':'form-control'}))\n    age = forms.IntegerField(label=\"年齢\",required=True,widget=forms.NumberInput(attrs={'class':'form-control'}))\n# サンプルフォーム\nclass SampleForm(forms.Form):\n    # input type=\"text\"\n    text = forms.CharField(label=\"テキスト\")\n    # input type=\"email\"\n    mail = forms.EmailField(label=\"メールアドレス\")",
+        "detail": "django_app.hello.forms",
+        "documentation": {}
+    },
+    {
+        "label": "SampleForm",
+        "kind": 6,
+        "importPath": "django_app.hello.forms",
+        "description": "django_app.hello.forms",
+        "peekOfCode": "class SampleForm(forms.Form):\n    # input type=\"text\"\n    text = forms.CharField(label=\"テキスト\")\n    # input type=\"email\"\n    mail = forms.EmailField(label=\"メールアドレス\")\n    # input type=\"number\"\n    number = forms.IntegerField(label=\"ナンバー\")\n    # input type=\"number\" step=\"0.1\"\n    number_float = forms.FloatField(label=\"浮動小数\")\n    # input type=\"url\"",
+        "detail": "django_app.hello.forms",
+        "documentation": {}
+    },
+    {
+        "label": "SessionForm",
+        "kind": 6,
+        "importPath": "django_app.hello.forms",
+        "description": "django_app.hello.forms",
+        "peekOfCode": "class SessionForm(forms.Form):\n    session = forms.CharField(label=\"セッション\")",
+        "detail": "django_app.hello.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Friend",
+        "kind": 6,
+        "importPath": "django_app.hello.models",
+        "description": "django_app.hello.models",
+        "peekOfCode": "class Friend(models.Model):\n    # name = models.CharField(max_length=100,validators=[\n    #     MinLengthValidator(10),      # Ensure this value has at least 10 characters (it has 8).\n    #     URLValidator(),              # Enter a valid URL.\n    #     RegexValidator(r'^[a-z]*$'), # Enter a valid value.\n    #     number_only                  # aaaa is not Number!\n    #     ])\n    name = models.CharField(max_length=100)\n    mail = models.EmailField(max_length=100)\n    gender = models.BooleanField()",
+        "detail": "django_app.hello.models",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "kind": 6,
+        "importPath": "django_app.hello.models",
+        "description": "django_app.hello.models",
+        "peekOfCode": "class Message(models.Model):\n    friend = models.ForeignKey(Friend, on_delete=models.CASCADE)\n    title = models.CharField(max_length=100)\n    content = models.CharField(max_length=300)\n    pub_date = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return \"<Message:id> = \" + str(self.id) + \",\" + self.title + \"(\" + str(self.pub_date) + \")>\"\n    class Meta:\n        ordering = (\"pub_date\",)",
+        "detail": "django_app.hello.models",
+        "documentation": {}
+    },
+    {
+        "label": "number_only",
+        "kind": 2,
+        "importPath": "django_app.hello.models",
+        "description": "django_app.hello.models",
+        "peekOfCode": "def number_only(value):\n    if (re.match(r\"^[0-9]*$\",value) == None):\n        raise ValidationError(\n            \"%(value)s is not Number!\",\n            params = {\"value\": value}\n        )\nclass Friend(models.Model):\n    # name = models.CharField(max_length=100,validators=[\n    #     MinLengthValidator(10),      # Ensure this value has at least 10 characters (it has 8).\n    #     URLValidator(),              # Enter a valid URL.",
+        "detail": "django_app.hello.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "django_app.hello.urls",
+        "description": "django_app.hello.urls",
+        "peekOfCode": "urlpatterns = [\n    path('',views.index,name='index'),\n    path('<int:num>',views.index,name='index'),\n    path('next',views.next,name='next'),\n    path('form',views.form,name='form'),\n    path('index2',HelloView.as_view(),name='index2'),\n    path('formSample',views.sample,name='formSample'),\n    path('sessionSample',views.sessionSample,name='sessionSample'),\n    path('create',views.create,name='create'),\n    path('edit/<int:num>',views.edit,name='edit'),",
+        "detail": "django_app.hello.urls",
+        "documentation": {}
+    },
+    {
+        "label": "HelloView",
+        "kind": 6,
+        "importPath": "django_app.hello.views",
+        "description": "django_app.hello.views",
+        "peekOfCode": "class HelloView(TemplateView):\n    # 初期化\n    def __init__(self):\n        self.params = {\n            'title':\"Hello/Index2\",\n            'message':\"あなたのデータ:\",\n            'form':HelloForm(),\n        }\n    # GET送信されて来た場合のメソッド\n    def get(self,request):",
+        "detail": "django_app.hello.views",
+        "documentation": {}
+    },
+    {
+        "label": "message",
+        "kind": 2,
+        "importPath": "django_app.hello.views",
+        "description": "django_app.hello.views",
+        "peekOfCode": "def message(request, page=1):\n    if (request.method==\"POST\"):\n        obj = Message()\n        form = MessageForm(request.POST,instance=obj)\n        form.save()\n    data = Message.objects.all().reverse()\n    paginator = Paginator(data,5)\n    params = {\n        \"title\":\"Message\",\n        \"form\":MessageForm(),",
+        "detail": "django_app.hello.views",
+        "documentation": {}
+    },
+    {
+        "label": "check",
+        "kind": 2,
+        "importPath": "django_app.hello.views",
+        "description": "django_app.hello.views",
+        "peekOfCode": "def check(request):\n    params = {\n        \"title\":\"Hello Check\",\n        \"message\":\"チェック バリデーション\",\n        \"form\":FriendForm()\n    }\n    if (request.method == \"POST\"):\n        obj = Friend()\n        form = FriendForm(request.POST,instance=obj)\n        params[\"form\"] = form",
+        "detail": "django_app.hello.views",
+        "documentation": {}
+    },
+    {
+        "label": "find",
+        "kind": 2,
+        "importPath": "django_app.hello.views",
+        "description": "django_app.hello.views",
+        "peekOfCode": "def find(request):\n    if (request.method == 'POST'):\n        form = FindForm(request.POST)\n        find = request.POST['find'] # リクエストパラメータの取得\n        # value = find.split() # [\"10\",\"20\"]\n        ### 文字列検索\n        # data = Friend.objects.filter(name=find) # 名前検索\n        # data = Friend.objects.filter(name__contains=find) # あいまい検索\n        # data = Friend.objects.filter(name__icontains=find) # 大文字小文字区別なし\n        # data = Friend.objects.filter(name__istartswith=find) # 先頭検索",
+        "detail": "django_app.hello.views",
+        "documentation": {}
+    },
+    {
+        "label": "detail",
+        "kind": 2,
+        "importPath": "django_app.hello.views",
+        "description": "django_app.hello.views",
+        "peekOfCode": "def detail(request,num):\n    obj = Friend.objects.get(id=num) # id指定でデータを取得\n    params = {\n        'title':\"Hello\",\n        'message':\"詳細\",\n        'id':num,\n        'obj':obj\n    }\n    return render(request,'hello/detail.html',params)\n## delete",
+        "detail": "django_app.hello.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "kind": 2,
+        "importPath": "django_app.hello.views",
+        "description": "django_app.hello.views",
+        "peekOfCode": "def delete(request,num):\n    obj = Friend.objects.get(id=num) # id指定でデータを取得\n    if(request.method=='POST'):\n        obj.delete()\n        return redirect(to='/hello') # リダイレクト\n    params = {\n        'title':\"Hello\",\n        'message':\"削除\",\n        'id':num,\n        'obj':obj",
+        "detail": "django_app.hello.views",
+        "documentation": {}
+    },
+    {
+        "label": "edit",
+        "kind": 2,
+        "importPath": "django_app.hello.views",
+        "description": "django_app.hello.views",
+        "peekOfCode": "def edit(request,num):\n    obj = Friend.objects.get(id=num) # id指定でデータを取得\n    # postリクエストされた場合\n    if(request.method=='POST'):\n        # 登録処理と同じ\n        friend = FriendForm(request.POST,instance=obj)\n        friend.save()\n        return redirect(to='/hello') # リダイレクト\n    params = {\n        'title':\"Hello\",",
+        "detail": "django_app.hello.views",
+        "documentation": {}
+    },
+    {
+        "label": "create",
+        "kind": 2,
+        "importPath": "django_app.hello.views",
+        "description": "django_app.hello.views",
+        "peekOfCode": "def create(request):\n    params = {\n        'title':\"Hello\",\n        'message':\"登録\",\n        'form':FriendForm(),\n    }\n    if(request.method=='POST'):\n        obj = Friend()\n        # name = request.POST['name']\n        # mail = request.POST['mail']",
+        "detail": "django_app.hello.views",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "django_app.hello.views",
+        "description": "django_app.hello.views",
+        "peekOfCode": "def index(request,num=1):\n    data = Friend.objects.all()\n    page = Paginator(data,3)\n    params = {\n        'title':\"Hello\",\n        'message':\"Friend一覧\",\n        'form':SearchForm(),\n        'data':page.get_page(num)\n    }\n    if (request.method=='POST'):",
+        "detail": "django_app.hello.views",
+        "documentation": {}
+    },
+    {
+        "label": "sessionSample",
+        "kind": 2,
+        "importPath": "django_app.hello.views",
+        "description": "django_app.hello.views",
+        "peekOfCode": "def sessionSample(request):\n    params = {\n        'msg':\"\",\n        'form':SessionForm(),\n    }\n    if request.method==\"GET\":\n        msg = request.session.get(\"Last_msg\",\"No message\")\n        params['msg'] = msg\n    if request.method==\"POST\":\n        ses = request.POST['session']",
+        "detail": "django_app.hello.views",
+        "documentation": {}
+    },
+    {
+        "label": "sample",
+        "kind": 2,
+        "importPath": "django_app.hello.views",
+        "description": "django_app.hello.views",
+        "peekOfCode": "def sample(request):\n    params = {\n        'msg':\"\",\n        'form':SampleForm(),\n    }\n    if(request.method=='POST'):\n        text = request.POST['text']\n        mail = request.POST['mail']\n        number = request.POST['number']\n        number_float = request.POST['number_float']",
+        "detail": "django_app.hello.views",
+        "documentation": {}
+    },
+    {
+        "label": "form",
+        "kind": 2,
+        "importPath": "django_app.hello.views",
+        "description": "django_app.hello.views",
+        "peekOfCode": "def form(request):\n    # リクエストパラメータの取得\n    msg = request.POST['msg']\n    params = {\n        'title':\"Hello/form\",\n        'msg':\"こんにちは\" + msg + \"さん\"\n    }\n    return render(request,'hello/index.html',params)\n# nextのページ\ndef next(request):",
+        "detail": "django_app.hello.views",
+        "documentation": {}
+    },
+    {
+        "label": "next",
+        "kind": 2,
+        "importPath": "django_app.hello.views",
+        "description": "django_app.hello.views",
+        "peekOfCode": "def next(request):\n    params = {\n        'title':\"Hello/next\",\n        'msg':\"もう一つのページ\",\n        # 'goto':'index',\n    }\n    return render(request,'hello/index.html',params)",
+        "detail": "django_app.hello.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "django_app.sns.migrations.0001_initial",
+        "description": "django_app.sns.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Message',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "django_app.sns.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "SnsConfig",
+        "kind": 6,
+        "importPath": "django_app.sns.apps",
+        "description": "django_app.sns.apps",
+        "peekOfCode": "class SnsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'sns'",
+        "detail": "django_app.sns.apps",
+        "documentation": {}
+    },
+    {
+        "label": "PostForm",
+        "kind": 6,
+        "importPath": "django_app.sns.forms",
+        "description": "django_app.sns.forms",
+        "peekOfCode": "class PostForm(forms.Form):\n    content = forms.CharField(max_length=500,\\\n                              widget=forms.Textarea(attrs={\"class\":\"form-control\",\"rows\":2}))\n    def __init__(self, user, *args, **kwargs):\n        super(PostForm, self).__init__(*args,**kwargs)",
+        "detail": "django_app.sns.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "kind": 6,
+        "importPath": "django_app.sns.models",
+        "description": "django_app.sns.models",
+        "peekOfCode": "class Message(models.Model):\n    owner = models.ForeignKey(User,on_delete=models.CASCADE,related_name=\"message_owner\")\n    content = models.TextField(max_length=1000)\n    good_count = models.IntegerField(default=0)\n    pub_date = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return str(self.content) + \"(\" + str(self.owner) + \")\"\n    class Meta:\n        ordering = (\"-pub_date\",)\n## Goodクラス",
+        "detail": "django_app.sns.models",
+        "documentation": {}
+    },
+    {
+        "label": "Good",
+        "kind": 6,
+        "importPath": "django_app.sns.models",
+        "description": "django_app.sns.models",
+        "peekOfCode": "class Good(models.Model):\n    owner = models.ForeignKey(User,on_delete=models.CASCADE,related_name=\"good_owner\")\n    message = models.ForeignKey(Message, on_delete=models.CASCADE)\n    pub_date = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return '\"' + str(self.message) + '\"(by' + str(self.owner) + ')'\n    class Meta:\n        ordering = ('-pub_date',)",
+        "detail": "django_app.sns.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "django_app.sns.urls",
+        "description": "django_app.sns.urls",
+        "peekOfCode": "urlpatterns = [\n    path('',views.index, name='index'),\n    path('<int:page>',views.index, name='index'),\n    path('post',views.post, name='post'),\n    path('goods',views.goods, name='goods'),\n    path('good/<int:good_id>',views.good, name='good'), \n]",
+        "detail": "django_app.sns.urls",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "django_app.sns.views",
+        "description": "django_app.sns.views",
+        "peekOfCode": "def index(request,page=1):\n    form = PostForm(request.user)\n    msgs = Message.objects.all()\n    paginator = Paginator(msgs,5)\n    page_items = paginator.get_page(page)\n    params = {\n        'login_user':request.user,\n        'form':form,\n        'contents':page_items,\n    }",
+        "detail": "django_app.sns.views",
+        "documentation": {}
+    },
+    {
+        "label": "post",
+        "kind": 2,
+        "importPath": "django_app.sns.views",
+        "description": "django_app.sns.views",
+        "peekOfCode": "def post(request):\n    if request.method == 'POST':\n        # 送信内容を取得\n        content = request.POST['content']\n        # メッセージを保存\n        msg = Message()\n        msg.owner = request.user\n        msg.content = content\n        msg.save()\n        # リダイレクト",
+        "detail": "django_app.sns.views",
+        "documentation": {}
+    },
+    {
+        "label": "goods",
+        "kind": 2,
+        "importPath": "django_app.sns.views",
+        "description": "django_app.sns.views",
+        "peekOfCode": "def goods(request):\n    goods = Good.objects.filter(owner=request.user).all()\n    params = {\n        'login_user':request.user,\n        'contents':goods,\n    }\n    return render(request,'sns/good.html',params)\n@login_required(login_url='/admin/login/')\ndef good(request,good_id):\n    # goodされたメッセージの取得",
+        "detail": "django_app.sns.views",
+        "documentation": {}
+    },
+    {
+        "label": "good",
+        "kind": 2,
+        "importPath": "django_app.sns.views",
+        "description": "django_app.sns.views",
+        "peekOfCode": "def good(request,good_id):\n    # goodされたメッセージの取得\n    good_msg = Message.objects.get(id=good_id)\n    # goodした回数\n    is_good = Good.objects.filter(owner=request.user).filter(message=good_msg).count()\n    # good済み処理\n    if is_good > 0:\n        messages.success(request,\"既にメッセージにはGoodしています。\")\n        return redirect(to='/sns')\n    # good未の処理",
+        "detail": "django_app.sns.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "django_app.manage",
+        "description": "django_app.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'django_app.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "django_app.manage",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "practice_project.items.migrations.0001_initial",
+        "description": "practice_project.items.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Items_table',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100)),",
+        "detail": "practice_project.items.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "ItemsConfig",
+        "kind": 6,
+        "importPath": "practice_project.items.apps",
+        "description": "practice_project.items.apps",
+        "peekOfCode": "class ItemsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'items'",
+        "detail": "practice_project.items.apps",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterForm",
+        "kind": 6,
+        "importPath": "practice_project.items.forms",
+        "description": "practice_project.items.forms",
+        "peekOfCode": "class RegisterForm(forms.ModelForm):\n    class Meta:\n        model = Items_table\n        fields = ['name','price','stock','category']\n        labels = {\n            'name':\"名前\",\n            'price':\"価格\",\n            'stock':\"在庫数\",\n            'category':\"カテゴリ\",\n        }",
+        "detail": "practice_project.items.forms",
+        "documentation": {}
+    },
+    {
+        "label": "FindForm",
+        "kind": 6,
+        "importPath": "practice_project.items.forms",
+        "description": "practice_project.items.forms",
+        "peekOfCode": "class FindForm(forms.Form):\n    find = forms.CharField(\n        label='検索',\n        required=False,\n        widget=forms.TextInput(attrs={'class':'form-control'}),\n        )",
+        "detail": "practice_project.items.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Items_table",
+        "kind": 6,
+        "importPath": "practice_project.items.models",
+        "description": "practice_project.items.models",
+        "peekOfCode": "class Items_table(models.Model):\n    #item_id = models.CharField(max_length=5)\n    name = models.CharField(max_length=100)\n    price = models.IntegerField(default=0)\n    stock = models.IntegerField(default=0)\n    category = models.CharField(max_length=100)",
+        "detail": "practice_project.items.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "practice_project.items.urls",
+        "description": "practice_project.items.urls",
+        "peekOfCode": "urlpatterns = [\n    path('',views.index,name='index'),\n    path('register',views.register,name='register'),\n    path('items_list',views.items_list,name='items_list'),\n    path('detail/<int:num>',views.detail,name='detail'),\n    path('delete/<int:num>',views.delete,name='delete'),\n    path('edit/<int:num>',views.edit,name='edit'),\n]",
+        "detail": "practice_project.items.urls",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "practice_project.items.views",
+        "description": "practice_project.items.views",
+        "peekOfCode": "def index(request):\n    params = {\n        'title': \"商品管理\",\n        'subtitle':\"INDEX\",\n    }\n    return render(request, 'items/index.html', params)\n## register\ndef register(request):\n    if (request.method == 'POST'):\n        obj = Items_table()",
+        "detail": "practice_project.items.views",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "practice_project.items.views",
+        "description": "practice_project.items.views",
+        "peekOfCode": "def register(request):\n    if (request.method == 'POST'):\n        obj = Items_table()\n        items = RegisterForm(request.POST,instance=obj)\n        items.save()\n        return redirect(to=\"/items/items_list\")\n    params = {\n        'title': \"商品管理\",\n        'subtitle':\"商品登録\",\n        'form':RegisterForm(),",
+        "detail": "practice_project.items.views",
+        "documentation": {}
+    },
+    {
+        "label": "items_list",
+        "kind": 2,
+        "importPath": "practice_project.items.views",
+        "description": "practice_project.items.views",
+        "peekOfCode": "def items_list(request):\n    if (request.method=='POST'):\n        find = request.POST['find']\n        if len(find)==0:\n            obj = Items_table.objects.all()\n            form = FindForm(request.POST)\n        else:\n            value = find.split()\n            obj = Items_table.objects.filter(Q(name__in=value) | Q(category__in=value))\n            form = FindForm(request.POST)",
+        "detail": "practice_project.items.views",
+        "documentation": {}
+    },
+    {
+        "label": "detail",
+        "kind": 2,
+        "importPath": "practice_project.items.views",
+        "description": "practice_project.items.views",
+        "peekOfCode": "def detail(request,num):\n    obj = Items_table.objects.get(id=num)\n    params = {\n        'title': \"商品管理\",\n        'subtitle':\"商品詳細\",\n        'item':obj,\n    }\n    return render(request, 'items/detail.html', params)\n## delete\ndef delete(request,num):",
+        "detail": "practice_project.items.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "kind": 2,
+        "importPath": "practice_project.items.views",
+        "description": "practice_project.items.views",
+        "peekOfCode": "def delete(request,num):\n    obj = Items_table.objects.get(id=num)\n    if(request.method=='POST'):\n        ans = request.POST['ans']\n        if ans==\"yes\":\n            obj.delete()\n            return redirect(to='/items/items_list')\n    params = {\n        'title': \"商品管理\",\n        'subtitle':\"商品削除\",",
+        "detail": "practice_project.items.views",
+        "documentation": {}
+    },
+    {
+        "label": "edit",
+        "kind": 2,
+        "importPath": "practice_project.items.views",
+        "description": "practice_project.items.views",
+        "peekOfCode": "def edit(request,num):\n    obj = Items_table.objects.get(id=num)\n    if(request.method=='POST'):\n        item = RegisterForm(request.POST,instance=obj)\n        item.save()\n        return redirect(to='/items/items_list')\n    params = {\n        'title': \"商品管理\",\n        'subtitle':\"商品更新\",\n        'item':obj,",
+        "detail": "practice_project.items.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.asgi",
+        "description": "practice_project.practice_project.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "practice_project.practice_project.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.settings",
+        "description": "practice_project.practice_project.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-l5=3^=y=v7igj*ce3%oy&*%3gsyu!w+_xd!1(2=e-5!6by^u*-'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "practice_project.practice_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.settings",
+        "description": "practice_project.practice_project.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-l5=3^=y=v7igj*ce3%oy&*%3gsyu!w+_xd!1(2=e-5!6by^u*-'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "practice_project.practice_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.settings",
+        "description": "practice_project.practice_project.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "practice_project.practice_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.settings",
+        "description": "practice_project.practice_project.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'items',",
+        "detail": "practice_project.practice_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.settings",
+        "description": "practice_project.practice_project.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'items',\n]\nMIDDLEWARE = [",
+        "detail": "practice_project.practice_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.settings",
+        "description": "practice_project.practice_project.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'practice_project.urls'",
+        "detail": "practice_project.practice_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.settings",
+        "description": "practice_project.practice_project.settings",
+        "peekOfCode": "ROOT_URLCONF = 'practice_project.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "practice_project.practice_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.settings",
+        "description": "practice_project.practice_project.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "practice_project.practice_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.settings",
+        "description": "practice_project.practice_project.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'practice_project.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "practice_project.practice_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.settings",
+        "description": "practice_project.practice_project.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "practice_project.practice_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.settings",
+        "description": "practice_project.practice_project.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "practice_project.practice_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.settings",
+        "description": "practice_project.practice_project.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "practice_project.practice_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.settings",
+        "description": "practice_project.practice_project.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "practice_project.practice_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.settings",
+        "description": "practice_project.practice_project.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "practice_project.practice_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.settings",
+        "description": "practice_project.practice_project.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "practice_project.practice_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.settings",
+        "description": "practice_project.practice_project.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "practice_project.practice_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.settings",
+        "description": "practice_project.practice_project.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "practice_project.practice_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.urls",
+        "description": "practice_project.practice_project.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('items/',include('items.urls')),\n]",
+        "detail": "practice_project.practice_project.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "practice_project.practice_project.wsgi",
+        "description": "practice_project.practice_project.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "practice_project.practice_project.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "practice_project.manage",
+        "description": "practice_project.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'practice_project.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "practice_project.manage",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "react-app.node_modules.flatted.python.flatted",
+        "description": "react-app.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "react-app.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "react-app.node_modules.flatted.python.flatted",
+        "description": "react-app.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "react-app.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "react-app.node_modules.flatted.python.flatted",
+        "description": "react-app.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "react-app.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "react-app.node_modules.flatted.python.flatted",
+        "description": "react-app.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "react-app.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "react-app.node_modules.flatted.python.test",
+        "description": "react-app.node_modules.flatted.python.test",
+        "peekOfCode": "def stringify(value):\n    return _stringify(value, separators=(',', ':'))\nassert stringify([None, None]) == '[[null,null]]'\na = []\no = {}\nassert stringify(a) == '[[]]'\nassert stringify(o) == '[{}]'\na.append(a)\no['o'] = o\nassert stringify(a) == '[[\"0\"]]'",
+        "detail": "react-app.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "react-app.node_modules.flatted.python.test",
+        "description": "react-app.node_modules.flatted.python.test",
+        "peekOfCode": "a = []\no = {}\nassert stringify(a) == '[[]]'\nassert stringify(o) == '[{}]'\na.append(a)\no['o'] = o\nassert stringify(a) == '[[\"0\"]]'\nassert stringify(o) == '[{\"o\":\"0\"}]'\nb = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b",
+        "detail": "react-app.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o",
+        "kind": 5,
+        "importPath": "react-app.node_modules.flatted.python.test",
+        "description": "react-app.node_modules.flatted.python.test",
+        "peekOfCode": "o = {}\nassert stringify(a) == '[[]]'\nassert stringify(o) == '[{}]'\na.append(a)\no['o'] = o\nassert stringify(a) == '[[\"0\"]]'\nassert stringify(o) == '[{\"o\":\"0\"}]'\nb = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b\na.append(1)",
+        "detail": "react-app.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['o']",
+        "kind": 5,
+        "importPath": "react-app.node_modules.flatted.python.test",
+        "description": "react-app.node_modules.flatted.python.test",
+        "peekOfCode": "o['o'] = o\nassert stringify(a) == '[[\"0\"]]'\nassert stringify(o) == '[{\"o\":\"0\"}]'\nb = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b\na.append(1)\na.append('two')\na.append(True)\no['one'] = 1\no['two'] = 'two'",
+        "detail": "react-app.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "react-app.node_modules.flatted.python.test",
+        "description": "react-app.node_modules.flatted.python.test",
+        "peekOfCode": "b = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b\na.append(1)\na.append('two')\na.append(True)\no['one'] = 1\no['two'] = 'two'\no['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'",
+        "detail": "react-app.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['one']",
+        "kind": 5,
+        "importPath": "react-app.node_modules.flatted.python.test",
+        "description": "react-app.node_modules.flatted.python.test",
+        "peekOfCode": "o['one'] = 1\no['two'] = 'two'\no['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'\na.append(o)\no['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})",
+        "detail": "react-app.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['two']",
+        "kind": 5,
+        "importPath": "react-app.node_modules.flatted.python.test",
+        "description": "react-app.node_modules.flatted.python.test",
+        "peekOfCode": "o['two'] = 'two'\no['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'\na.append(o)\no['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})\na.append([1, 2, 3])",
+        "detail": "react-app.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['three']",
+        "kind": 5,
+        "importPath": "react-app.node_modules.flatted.python.test",
+        "description": "react-app.node_modules.flatted.python.test",
+        "peekOfCode": "o['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'\na.append(o)\no['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})\na.append([1, 2, 3])\no['test'] = {'test': 'OK'}",
+        "detail": "react-app.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['a']",
+        "kind": 5,
+        "importPath": "react-app.node_modules.flatted.python.test",
+        "description": "react-app.node_modules.flatted.python.test",
+        "peekOfCode": "o['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})\na.append([1, 2, 3])\no['test'] = {'test': 'OK'}\no['array'] = [1, 2, 3]\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\",\"3\",\"4\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\",\"test\":\"3\",\"array\":\"4\"},{\"test\":\"5\"},[1,2,3],\"OK\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\",\"test\":\"3\",\"array\":\"4\"},\"two\",[\"2\",1,\"1\",true,\"0\",\"3\",\"4\"],{\"test\":\"5\"},[1,2,3],\"OK\"]'\na2 = parse(stringify(a));",
+        "detail": "react-app.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['test']",
+        "kind": 5,
+        "importPath": "react-app.node_modules.flatted.python.test",
+        "description": "react-app.node_modules.flatted.python.test",
+        "peekOfCode": "o['test'] = {'test': 'OK'}\no['array'] = [1, 2, 3]\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\",\"3\",\"4\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\",\"test\":\"3\",\"array\":\"4\"},{\"test\":\"5\"},[1,2,3],\"OK\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\",\"test\":\"3\",\"array\":\"4\"},\"two\",[\"2\",1,\"1\",true,\"0\",\"3\",\"4\"],{\"test\":\"5\"},[1,2,3],\"OK\"]'\na2 = parse(stringify(a));\no2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']",
+        "detail": "react-app.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['array']",
+        "kind": 5,
+        "importPath": "react-app.node_modules.flatted.python.test",
+        "description": "react-app.node_modules.flatted.python.test",
+        "peekOfCode": "o['array'] = [1, 2, 3]\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\",\"3\",\"4\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\",\"test\":\"3\",\"array\":\"4\"},{\"test\":\"5\"},[1,2,3],\"OK\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\",\"test\":\"3\",\"array\":\"4\"},\"two\",[\"2\",1,\"1\",true,\"0\",\"3\",\"4\"],{\"test\":\"5\"},[1,2,3],\"OK\"]'\na2 = parse(stringify(a));\no2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']\nstr = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')",
+        "detail": "react-app.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "a2",
+        "kind": 5,
+        "importPath": "react-app.node_modules.flatted.python.test",
+        "description": "react-app.node_modules.flatted.python.test",
+        "peekOfCode": "a2 = parse(stringify(a));\no2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']\nstr = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')\nassert str['b']['t']['a'] == 'sup' and str['a'][1]['b'][0]['c'] == str['b']['t']\noo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']",
+        "detail": "react-app.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o2",
+        "kind": 5,
+        "importPath": "react-app.node_modules.flatted.python.test",
+        "description": "react-app.node_modules.flatted.python.test",
+        "peekOfCode": "o2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']\nstr = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')\nassert str['b']['t']['a'] == 'sup' and str['a'][1]['b'][0]['c'] == str['b']['t']\noo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']\nprint('OK')",
+        "detail": "react-app.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "str",
+        "kind": 5,
+        "importPath": "react-app.node_modules.flatted.python.test",
+        "description": "react-app.node_modules.flatted.python.test",
+        "peekOfCode": "str = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')\nassert str['b']['t']['a'] == 'sup' and str['a'][1]['b'][0]['c'] == str['b']['t']\noo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']\nprint('OK')",
+        "detail": "react-app.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "oo",
+        "kind": 5,
+        "importPath": "react-app.node_modules.flatted.python.test",
+        "description": "react-app.node_modules.flatted.python.test",
+        "peekOfCode": "oo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']\nprint('OK')",
+        "detail": "react-app.node_modules.flatted.python.test",
+        "documentation": {}
+    }
+]
