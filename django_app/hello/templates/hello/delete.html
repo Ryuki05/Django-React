@@ -1,0 +1,55 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{% static 'hello/css/style.css' %}" type="text/css">
+</head>
+<body class="container">
+    <h1 class="display-3 text-danger">{{ title }}</h1>
+    <p class="h5 mt-4">{{ message|safe }}</p>
+    <table class="table">
+        <tr>
+            <th>ID</th>
+            <td>{{ obj.id }}</td>
+        </tr>
+        <tr>
+            <th>名前</th>
+            <td>{{ obj.name }}</td>
+        </tr>
+        <tr>
+            <th>メールアドレス</th>
+            <td>{{ obj.mail }}</td>
+        </tr>
+        <tr>
+            <th>性別</th>
+            <td>
+                {% if obj.gender == False %}female{% endif %}
+                {% if obj.gender == True %}male{% endif %}
+            </td>
+        </tr>
+        <tr>
+            <th>年齢</th>
+            <td>{{ obj.age }}</td>
+        </tr>
+        <tr>
+            <th>生年月日</th>
+            <td>{{ obj.birthday }}</td>
+        </tr>
+        <form action="{% url 'delete' id %}" method="post">
+            {% csrf_token %}
+            <tr>
+                <th></th>
+                <td>
+                    <input type="submit" value="削除" class="btn btn-primary mt-2">
+                    <a href="{% url 'index' %}" class="btn btn-primary mt-2">戻る</a>
+                </td>
+            </tr>
+        </form>
+    </table>
+
+</body>
+</html>
